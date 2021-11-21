@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    font-family:'Ubuntu', sans-serif;
+}
+
+.chip{
+    @apply bg-white hover:bg-black  flex justify-center hover:text-white  border-double border-4 border-black font-semibold cursor-pointer text-black font-sans rounded-full ;
+}
+
+html {
+    scroll-behavior: smooth;
+}
