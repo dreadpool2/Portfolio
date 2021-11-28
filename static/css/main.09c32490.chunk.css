@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu&display=swap);@tailwind base;@tailwind components;@tailwind utilities;.btn{@apply py-2 px-4 font-semibold rounded-lg shadow-md}.btn-green{@apply text-white bg-green-500 hover:bg-green-700}body{font-family:"Ubuntu",sans-serif}.chip{@apply bg-white hover:bg-black  flex justify-center hover:text-white  border-double border-4 border-black font-semibold cursor-pointer text-black font-sans rounded-full}html{scroll-behavior:smooth}
+/*# sourceMappingURL=main.09c32490.chunk.css.map */
